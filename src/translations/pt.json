@@ -1,0 +1,63 @@
+{
+  "title": "Bem vindo ao meu site",
+  "theme": {
+    "label": "Selecione seu tema:",
+    "themes": {
+      "light": "Claro",
+      "dark": "Escuro",
+      "system": "Sistema"
+    }
+  },
+  "language-selector": {
+    "label": "Choose your language:",
+    "languages": {
+      "pt": "Português",
+      "en": "English"
+    }
+  },
+  "now-playing": {
+    "title": "Ouvindo agora:"
+  },
+  "navbar": {
+    "title": "Bem vindo!",
+    "social-media": "Redes Sociais",
+    "home": "Ínicio",
+    "does-not-speak": "Don't speak Portuguese? Change here!"
+  },
+  "main": {
+    "cv": "Baixar Currículo",
+    "title": "Olá, seja bem vindo!",
+    "description": "Sou um desenvolvedor de software, aqui estou mostrando um pouco do meu trabalho. Espero que goste!",
+    "about": "Sobre mim",
+    "about-description": "👋 Olá! Meu nome é Micael Gomes, sou um desenvolvedor backend apaixonado por tecnologia e desafios. Minha jornada na programação começou como autodidata aos 12 anos, o que me permitiu desenvolver uma abordagem criativa e proativa para resolver desafios. Como uma pessoa extrovertida por natureza, adoro trabalhar em equipe, compartilhar ideias e buscar constantemente maneiras de criar um ambiente colaborativo e divertido. Se você está buscando um desenvolvedor com habilidades de comunicação e uma abordagem apaixonada para o desenvolvimento de software, eu adoraria conversar com você!",
+    "recent-enterprises": "Empresas recentes",
+    "recent-enterprises-description": {
+      "1": {
+        "cargo": "Analista de Redes de Computadores",
+        "enterprise": "IFF - Instituto Federal Fluminense",
+        "date": "Jan/2023 - Dez/2023",
+        "description": ""
+      },
+      "2": {
+        "cargo": "Desenvolvedor Backend",
+        "enterprise": "Freelancer",
+        "date": "Jan/2020 - Atualmente",
+        "description": ""
+      }
+    },
+    "licenses": "Licenças e Certificados",
+    "licenses-description": {
+      "1": {
+        "title": "CCNA: Introduction to Networks",
+        "description": "Introduction to Networks",
+        "date": "2024"
+      },
+      "2": {
+        "title": "Formação Node.js",
+        "description": "Curso de Desenvolvimento de Aplicações com Node.js",
+        "date": "2022"
+      }
+    },
+    "projects": "Meus Projetos"
+  }
+}
