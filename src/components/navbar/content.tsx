@@ -6,10 +6,18 @@ export const Content = () => {
 
   const projects = [
     {
+      url: "https://cinema-score.vercel.app/",
+      title: "Cinema Score",
+      description: 'Projeto criado para fixar aprendizado em React e Typescript, consumindo a API do TMDB para exibir informações sobre filmes e séries',
+      techs: ['React', 'Typescript', 'Tailwindcss', 'Shadcn/ui'],
+      img: 'cinemascore.png'
+    },
+    {
       url: "https://trinnocontabilidade.vercel.app/",
       title: "Trinno Contabilidade",
       description: 'Landing page criada com foco em conversão de clientes para uma empresa de contabilidade',
-      techs: ['React', 'Typescript', 'Tailwindcss']
+      techs: ['React', 'Typescript', 'Tailwindcss'],
+      img: 'trinno.png'
     },
   ];
 
@@ -70,7 +78,7 @@ export const Content = () => {
           {projects.map((project, index) => (
             <a className="w-full p-2 transition duration-300 ease-in-out hover:scale-105" key={index} href={project.url} target="_blank">
               <div className="rounded-lg border bg-card text-card-foreground shadow-sm overflow-hidden">
-                <img src='trinno.png' alt={project.title} className="object-cover w-full h-32" />
+                <img src={project.img} alt={project.title} className="object-cover w-full h-32" />
                 <div className="p-4">
                   <h3 className="text-lg font-semibold">{project.title}</h3>
                   <p className="mt-2 text-muted-foreground">{project.description}</p>
