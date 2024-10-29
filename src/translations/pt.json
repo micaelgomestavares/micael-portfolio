@@ -30,18 +30,24 @@
     "description": "Sou um desenvolvedor de software, aqui estou mostrando um pouco do meu trabalho. Espero que goste!",
     "about": "Sobre mim",
     "about-description": "👋 Olá! Meu nome é Micael Gomes, sou um desenvolvedor backend apaixonado por tecnologia e desafios. Minha jornada na programação começou como autodidata aos 12 anos, o que me permitiu desenvolver uma abordagem criativa e proativa para resolver desafios. Como uma pessoa extrovertida por natureza, adoro trabalhar em equipe, compartilhar ideias e buscar constantemente maneiras de criar um ambiente colaborativo e divertido. Se você está buscando um desenvolvedor com habilidades de comunicação e uma abordagem apaixonada para o desenvolvimento de software, eu adoraria conversar com você!",
-    "recent-enterprises": "Empresas recentes",
+    "recent-enterprises": "Experiência Profissional",
     "recent-enterprises-description": {
       "1": {
-        "cargo": "Analista de Redes de Computadores",
+        "role": "Desenvolvedor Frontend",
+        "enterprise": "Dinheirow",
+        "date": "Julho/2024 - Atualmente",
+        "description": ""
+      },
+      "2": {
+        "role": "Analista de Redes de Computadores",
         "enterprise": "IFF - Instituto Federal Fluminense",
         "date": "Jan/2023 - Dez/2023",
         "description": ""
       },
-      "2": {
-        "cargo": "Desenvolvedor Backend",
+      "3": {
+        "role": "Desenvolvedor Backend",
         "enterprise": "Freelancer",
-        "date": "Jan/2020 - Atualmente",
+        "date": "Jan/2019 - Jan/2023",
         "description": ""
       }
     },

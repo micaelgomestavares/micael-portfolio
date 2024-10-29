@@ -30,18 +30,24 @@
     "description": "I'm a software developer and I'm here to show you a little bit of my work. I hope you like it!",
     "about": "About me",
     "about-description": "👋 Hi, welcome to my profile! My name is Micael Gomes, I'm a backend developer passionate about technology and challenges. My programming journey began as a self-taught student at age 12, which helped me develop a creative and proactive approach to solving challenges. As a naturally extroverted person, I love working in a team, sharing ideas and constantly looking for ways to create a collaborative and fun environment. If you're looking for a developer with communication skills and a passionate approach to software development, I'd love to talk to you!",
-    "recent-enterprises": "Recent Enterprises",
+    "recent-enterprises": "Profissional Experience",
     "recent-enterprises-description": {
       "1": {
-        "cargo": "Network analyst",
-        "enterprise": "IFF - Instituto Federal Fluminense",
-        "date": "Jan/2023 - Dez/2023",
+        "role": "Frontend Developer",
+        "enterprise": "Dinheirow",
+        "date": "Jul/2024 - present",
         "description": ""
       },
       "2": {
-        "cargo": "Backend Developer",
+        "role": "Network analyst",
+        "enterprise": "IFF - Instituto Federal Fluminense",
+        "date": "Jan/2023 - Dec/2023",
+        "description": ""
+      },
+      "3": {
+        "role": "Backend Developer",
         "enterprise": "Freelancer",
-        "date": "Jan/2020 - Now",
+        "date": "Jan/2019 - Jan/2023",
         "description": ""
       }
     },
@@ -53,7 +59,7 @@
         "date": "2024"
       },
       "2": {
-        "title": "Formação Node.js",
+        "title": "Node.js Formation",
         "description": "NodeJS course",
         "date": "2022"
       }
