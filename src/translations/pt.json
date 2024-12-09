@@ -64,6 +64,14 @@
         "date": "2022"
       }
     },
-    "projects": "Meus Projetos"
+    "projects": {
+      "title": "Meus Projetos",
+      "cinemaScore": {
+        "description": "Projeto criado para fixar aprendizado em React e Typescript, consumindo a API do TMDB para exibir informações sobre filmes e séries"
+      },
+      "trinno": {
+        "description": "Landing page criada com foco em conversão de clientes para uma empresa de contabilidade"
+      }
+    }
   }
 }
