@@ -28,7 +28,6 @@ import AnimatedContent from "../AnimatedContent";
 import Aurora from "../Aurora";
 import BlurText from "../BlurText";
 import DecryptedText from "../DecryptedText";
-import GradientText from "../GradientText";
 import { LanguageSelector } from "../language-selector";
 import { ModeToggle } from "../mode-toggle";
 import SpotlightCard from "../SpotlightCard";
