@@ -26,52 +26,73 @@
   },
   "main": {
     "cv": "Baixar Currículo",
+    "greeting": "Olá, eu sou",
+    "role": "Desenvolvedor de Software Fullstack",
     "title": "Olá, seja bem vindo!",
-    "description": "Sou um desenvolvedor de software fullstack, aqui estou mostrando um pouco do meu trabalho. Espero que goste!",
+    "description": "Desenvolvedor fullstack apaixonado por construir aplicações web modernas, escaláveis e com ótima experiência do usuário. Especializado em React, Next.js e Node.js.",
+    "location": "Brasil",
+    "technologies": "Tecnologias & Ferramentas",
     "about": "Sobre mim",
-    "about-description": "👋 Olá! Meu nome é Micael Gomes, sou um desenvolvedor backend apaixonado por tecnologia e desafios. Minha jornada na programação começou como autodidata aos 12 anos, o que me permitiu desenvolver uma abordagem criativa e proativa para resolver desafios. Como uma pessoa extrovertida por natureza, adoro trabalhar em equipe, compartilhar ideias e buscar constantemente maneiras de criar um ambiente colaborativo e divertido. Se você está buscando um desenvolvedor com habilidades de comunicação e uma abordagem apaixonada para o desenvolvimento de software, eu adoraria conversar com você!",
-    "recent-enterprises": "Experiência Profissional",
+    "about-description": "Olá! Meu nome é Micael Gomes, sou um desenvolvedor de software fullstack apaixonado por tecnologia e desafios. Minha jornada na programação começou como autodidata aos 12 anos, o que me permitiu desenvolver uma abordagem criativa e proativa para resolver problemas. Tenho experiência profissional com desenvolvimento frontend na Dinheirow, onde trabalho com React, TypeScript e tecnologias web modernas. Também tenho experiência com redes do meu tempo no IFF (Instituto Federal Fluminense) e anos de freelancing em backend. Como uma pessoa extrovertida por natureza, adoro trabalhar em equipe, compartilhar ideias e buscar constantemente maneiras de criar um ambiente colaborativo e produtivo. Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.",
+    "recent-enterprises": "Experiência",
     "recent-enterprises-description": {
       "1": {
         "role": "Desenvolvedor Frontend",
         "enterprise": "Dinheirow",
-        "date": "Julho/2024 - Atualmente",
-        "description": ""
+        "date": "Jul/2024 - Atualmente",
+        "description": "Desenvolvimento de interfaces web utilizando React, TypeScript e tecnologias modernas de frontend."
       },
       "2": {
         "role": "Analista de Redes de Computadores",
         "enterprise": "IFF - Instituto Federal Fluminense",
         "date": "Jan/2023 - Dez/2023",
-        "description": ""
+        "description": "Gerenciamento de infraestrutura de rede e manutenção de sistemas computacionais."
       },
       "3": {
         "role": "Desenvolvedor Backend",
         "enterprise": "Freelancer",
         "date": "Jan/2019 - Jan/2023",
-        "description": ""
+        "description": "Desenvolvimento de APIs e serviços backend para diversos clientes utilizando Node.js e bancos de dados."
       }
     },
-    "licenses": "Licenças e Certificados",
+    "licenses": "Cursos e Certificados",
     "licenses-description": {
       "1": {
         "title": "CCNA: Introduction to Networks",
-        "description": "Introduction to Networks",
+        "description": "Fundamentos de Redes Cisco",
         "date": "2024"
       },
       "2": {
         "title": "Formação Node.js",
-        "description": "Curso de Desenvolvimento de Aplicações com Node.js",
+        "description": "Desenvolvimento Completo de Aplicações com Node.js",
         "date": "2022"
       }
     },
     "projects": {
       "title": "Meus Projetos",
+      "featured": "Projetos em Destaque",
+      "other": "Outros Projetos",
+      "mitech": {
+        "description": "Landing page moderna para a Mitech, construída com tecnologias de ponta e animações impressionantes.",
+        "tag": "Landing Page"
+      },
+      "mitechFinance": {
+        "description": "Plataforma completa de gestão financeira com dashboards, relatórios e acompanhamento de transações.",
+        "tag": "SaaS"
+      },
+      "corteIdeal": {
+        "description": "Plataforma completa para barbearias com agendamento, pagamentos e sistema de fidelidade.",
+        "tag": "SaaS"
+      },
       "cinemaScore": {
-        "description": "Projeto criado para fixar aprendizado em React e Typescript, consumindo a API do TMDB para exibir informações sobre filmes e séries"
+        "description": "Projeto criado para fixar aprendizado em React e TypeScript, consumindo a API do TMDB para exibir informações sobre filmes e séries.",
+        "tag": "Web App"
       },
       "trinno": {
-        "description": "Landing page criada com foco em conversão de clientes para uma empresa de contabilidade"
+        "description": "Landing page criada com foco em conversão de clientes para uma empresa de contabilidade.",
+        "tag": "Landing Page"
       }
-    }
+    },
+    "footer": "Todos os direitos reservados."
   }
 }

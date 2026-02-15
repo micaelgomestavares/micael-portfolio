@@ -26,52 +26,73 @@
   },
   "main": {
     "cv": "Download CV",
+    "greeting": "Hello, I'm",
+    "role": "Fullstack Software Developer",
     "title": "Hi, welcome to my page!",
-    "description": "I'm a fullstack software developer and i'm here to show you a little bit of my work. I hope you like it!",
+    "description": "Fullstack developer passionate about building modern, scalable web applications with great user experiences. Specialized in React, Next.js and Node.js.",
+    "location": "Brazil",
+    "technologies": "Technologies & Tools",
     "about": "About me",
-    "about-description": "👋 Hi, welcome to my profile! My name is Micael Gomes, I'm a backend developer passionate about technology and challenges. My programming journey began as a self-taught student at age 12, which helped me develop a creative and proactive approach to solving challenges. As a naturally extroverted person, I love working in a team, sharing ideas and constantly looking for ways to create a collaborative and fun environment. If you're looking for a developer with communication skills and a passionate approach to software development, I'd love to talk to you!",
-    "recent-enterprises": "Professional Experience",
+    "about-description": "Hello! My name is Micael Gomes, I'm a fullstack software developer passionate about technology and challenges. My programming journey began as a self-taught learner at age 12, which helped me develop a creative and proactive approach to problem-solving. I have professional experience with frontend development at Dinheirow, where I work with React, TypeScript and modern web technologies. I also have experience with networking from my time at IFF (Instituto Federal Fluminense) and years of backend freelancing. As a naturally extroverted person, I love working in teams, sharing ideas and constantly looking for ways to create a collaborative and productive environment. I'm always seeking new challenges and opportunities to grow as a developer.",
+    "recent-enterprises": "Experience",
     "recent-enterprises-description": {
       "1": {
         "role": "Frontend Developer",
         "enterprise": "Dinheirow",
-        "date": "Jul/2024 - present",
-        "description": ""
+        "date": "Jul/2024 - Present",
+        "description": "Development of web interfaces using React, TypeScript and modern frontend technologies."
       },
       "2": {
-        "role": "Network analyst",
+        "role": "Network Analyst",
         "enterprise": "IFF - Instituto Federal Fluminense",
         "date": "Jan/2023 - Dec/2023",
-        "description": ""
+        "description": "Network infrastructure management and computer systems maintenance."
       },
       "3": {
         "role": "Backend Developer",
         "enterprise": "Freelancer",
         "date": "Jan/2019 - Jan/2023",
-        "description": ""
+        "description": "Development of APIs and backend services for various clients using Node.js and databases."
       }
     },
-    "licenses": "Courses and Certifications",
+    "licenses": "Courses & Certifications",
     "licenses-description": {
       "1": {
         "title": "CCNA: Introduction to Networks",
-        "description": "Introduction to Networks",
+        "description": "Cisco Networking Fundamentals",
         "date": "2024"
       },
       "2": {
         "title": "Node.js Formation",
-        "description": "NodeJS course",
+        "description": "Complete Node.js Application Development",
         "date": "2022"
       }
     },
     "projects": {
       "title": "My Projects",
+      "featured": "Featured Projects",
+      "other": "Other Projects",
+      "mitech": {
+        "description": "Modern landing page for Mitech, built with cutting-edge technologies and stunning animations.",
+        "tag": "Landing Page"
+      },
+      "mitechFinance": {
+        "description": "Complete financial management platform with dashboards, reports and transaction tracking.",
+        "tag": "SaaS"
+      },
+      "corteIdeal": {
+        "description": "Full platform for barbershops with scheduling, payments and customer loyalty system.",
+        "tag": "SaaS"
+      },
       "cinemaScore": {
-        "description": "Project created to solidify learning in React and TypeScript, consuming the TMDB API to display information about movies and TV shows."
+        "description": "Project built to solidify learning in React and TypeScript, consuming the TMDB API to display movie and TV show information.",
+        "tag": "Web App"
       },
       "trinno": {
-        "description": "Landing page designed with a focus on converting customers for an accounting firm."
+        "description": "Landing page designed with a focus on converting customers for an accounting firm.",
+        "tag": "Landing Page"
       }
-    }
+    },
+    "footer": "All rights reserved."
   }
 }
