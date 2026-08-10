@@ -1,7 +1,7 @@
 {
-  "title": "Welcome to the App",
+  "title": "Micael Gomes — Full-stack Developer",
   "theme": {
-    "label": "Choose your theme:",
+    "label": "Select theme",
     "themes": {
       "light": "Light",
       "dark": "Dark",
@@ -9,90 +9,129 @@
     }
   },
   "language-selector": {
-    "label": "Escolha a sua língua:",
+    "label": "Select language",
     "languages": {
       "pt": "Português",
       "en": "English"
     }
   },
-  "now-playing": {
-    "title": "Listening now:"
-  },
-  "navbar": {
-    "title": "Welcome!",
-    "social-media": "Socials",
-    "home": "Home",
-    "does-not-speak": "Não fala inglês? Troque aqui!"
+  "navigation": {
+    "primary": "Primary navigation",
+    "home": "Micael Gomes — home",
+    "skip": "Skip to content",
+    "projects": "Projects",
+    "skills": "Skills",
+    "about": "About",
+    "backToTop": "Back to top"
   },
   "main": {
-    "cv": "Download CV",
-    "greeting": "Hello, I'm",
-    "role": "Fullstack Software Developer",
-    "title": "Hi, welcome to my page!",
-    "description": "Fullstack developer passionate about building modern, scalable web applications with great user experiences. Specialized in React, Next.js and Node.js.",
+    "availability": "Available for opportunities and selected projects",
+    "role": "Full-stack developer obsessed with well-built interfaces.",
+    "description": "I turn product problems into fast, clear experiences built to grow — from the first interaction to the infrastructure behind it.",
     "location": "Brazil",
-    "technologies": "Technologies & Tools",
-    "about": "About me",
-    "about-description": "Hello! My name is Micael Gomes, I'm a fullstack software developer passionate about technology and challenges. My programming journey began as a self-taught learner at age 12, which helped me develop a creative and proactive approach to problem-solving. I have professional experience with frontend development at Dinheirow, where I work with React, TypeScript and modern web technologies. I also have experience with networking from my time at IFF (Instituto Federal Fluminense) and years of backend freelancing. As a naturally extroverted person, I love working in teams, sharing ideas and constantly looking for ways to create a collaborative and productive environment. I'm always seeking new challenges and opportunities to grow as a developer.",
-    "recent-enterprises": "Experience",
-    "recent-enterprises-description": {
-      "1": {
-        "role": "Frontend Developer",
-        "enterprise": "Dinheirow",
-        "date": "Jul/2024 - Present",
-        "description": "Development of web interfaces using React, TypeScript and modern frontend technologies."
-      },
-      "2": {
-        "role": "Network Analyst",
-        "enterprise": "IFF - Instituto Federal Fluminense",
-        "date": "Jan/2023 - Dec/2023",
-        "description": "Network infrastructure management and computer systems maintenance."
-      },
-      "3": {
-        "role": "Backend Developer",
-        "enterprise": "Freelancer",
-        "date": "Jan/2019 - Jan/2023",
-        "description": "Development of APIs and backend services for various clients using Node.js and databases."
-      }
-    },
-    "licenses": "Courses & Certifications",
-    "licenses-description": {
-      "1": {
-        "title": "CCNA: Introduction to Networks",
-        "description": "Cisco Networking Fundamentals",
-        "date": "2024"
-      },
-      "2": {
-        "title": "Node.js Formation",
-        "description": "Complete Node.js Application Development",
-        "date": "2022"
-      }
-    },
+    "remote": "Remote · worldwide",
+    "scroll": "Scroll to explore",
+    "viewWork": "View selected work",
+    "cv": "Download résumé",
+    "portraitAlt": "Portrait of Micael Gomes in a garden wearing sunglasses",
     "projects": {
-      "title": "My Projects",
-      "featured": "Featured Projects",
-      "other": "Other Projects",
-      "mitech": {
-        "description": "Modern landing page for Mitech, built with cutting-edge technologies and stunning animations.",
-        "tag": "Landing Page"
-      },
-      "mitechFinance": {
-        "description": "Complete financial management platform with dashboards, reports and transaction tracking.",
-        "tag": "SaaS"
-      },
-      "corteIdeal": {
-        "description": "Full platform for barbershops with scheduling, payments and customer loyalty system.",
-        "tag": "SaaS"
-      },
-      "cinemaScore": {
-        "description": "Project built to solidify learning in React and TypeScript, consuming the TMDB API to display movie and TV show information.",
-        "tag": "Web App"
-      },
-      "trinno": {
-        "description": "Landing page designed with a focus on converting customers for an accounting firm.",
-        "tag": "Landing Page"
+      "title": "Selected work",
+      "intro": "Real products, visible decisions. Each case combines engineering, user experience, and attention to what moves the business forward.",
+      "open": "Open project",
+      "stackLabel": "Technologies used",
+      "items": {
+        "mitech": {
+          "type": "Company website · 2026",
+          "description": "A digital presence for a software studio, combining product storytelling, dark visual direction, and a focused conversion journey.",
+          "imageAlt": "Mitech homepage presenting its digital product services"
+        },
+        "cinemaScore": {
+          "type": "Web application · Personal product",
+          "description": "A movie and TV discovery experience built on the TMDB API, with search, catalog browsing, and responsive navigation.",
+          "imageAlt": "Cinema Score interface displaying a movie catalog"
+        },
+        "trinno": {
+          "type": "Landing page · Client work",
+          "description": "A landing page for a digital accounting firm, structured to explain the service quickly and turn interest into contact.",
+          "imageAlt": "Trinno Contabilidade website presenting accounting services"
+        }
       }
     },
-    "footer": "All rights reserved."
+    "skills": {
+      "title": "Skills",
+      "showMore": "Show more",
+      "showLess": "Show less",
+      "categories": {
+        "language": "Languages",
+        "frontend": "Frontend",
+        "backend": "Backend",
+        "infrastructure": "Infrastructure",
+        "workflow": "Workflow",
+        "design": "Design"
+      }
+    },
+    "about": {
+      "title": "About",
+      "statement": "Engineering with product judgment.",
+      "description": "I started teaching myself to code at 12. Since then, I have built a perspective that connects code, people, and outcomes: understand the problem before choosing the technology, work closely with the team, and turn complexity into interfaces that feel simple. Today I work mainly with React, TypeScript, Next.js, and Node.js.",
+      "focusLabel": "Focus",
+      "focusValue": "End-to-end web products",
+      "modeLabel": "Working style",
+      "modeValue": "Remote and collaborative",
+      "languagesLabel": "Languages",
+      "languagesValue": "Portuguese and English"
+    },
+    "experience": {
+      "title": "Experience",
+      "intro": "A path across product, frontend, backend, and infrastructure.",
+      "items": {
+        "1": {
+          "role": "Technical Lead",
+          "enterprise": "Ecta Corporative",
+          "employmentType": "Full-time",
+          "date": "Mar/2026 — present",
+          "location": "Brazil · Remote",
+          "description": "Technical Lead working on B2B platforms and high-scale systems with Angular, C#, and .NET. Responsible for systems architecture, technical team leadership, and roadmap management, balancing strategic vision with hands-on engineering. I define technical standards, review architecture, and make decisions that ensure scalability, quality, and continuous product evolution, with a focus on delivering robust solutions and developing the team alongside the product."
+        },
+        "2": {
+          "role": "Frontend Developer",
+          "enterprise": "Dinheirow",
+          "date": "Jul/2024 — Mar/2026",
+          "description": "Building and evolving interfaces with React, TypeScript, and modern frontend technologies in direct contact with product needs."
+        },
+        "3": {
+          "role": "Computer Network Analyst",
+          "enterprise": "IFF — Instituto Federal Fluminense",
+          "date": "Jan/2023 — Dec/2023",
+          "description": "Network infrastructure management and computer systems maintenance."
+        },
+        "4": {
+          "role": "Backend Developer",
+          "enterprise": "Freelance",
+          "date": "Jan/2019 — Jan/2023",
+          "description": "APIs and backend services for clients across different industries using Node.js and relational databases."
+        }
+      }
+    },
+    "certificates": {
+      "title": "Additional education",
+      "items": {
+        "1": {
+          "title": "CCNA: Introduction to Networks",
+          "description": "Cisco networking fundamentals",
+          "date": "2024"
+        },
+        "2": {
+          "title": "Node.js Program",
+          "description": "Complete application development",
+          "date": "2022"
+        }
+      }
+    },
+    "contact": {
+      "availability": "Have an interesting problem?",
+      "title": "Let's talk",
+      "timezone": "UTC−03 · Brasília time"
+    }
   }
 }

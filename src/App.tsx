@@ -3,8 +3,8 @@ import { ThemeProvider } from "./components/vendor/theme-provider";
 
 function App() {
   return (
-    <ThemeProvider defaultTheme="system" storageKey="vite-ui-theme">
-      <Portfolio></Portfolio>
+    <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
+      <Portfolio />
     </ThemeProvider>
   );
 }

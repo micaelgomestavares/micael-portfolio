@@ -63,6 +63,8 @@ export function ThemeProvider({
   )
 }
 
+// The provider and its hook intentionally share this small module.
+// eslint-disable-next-line react-refresh/only-export-components
 export const useTheme = () => {
   const context = useContext(ThemeProviderContext)
 

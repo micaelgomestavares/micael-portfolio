@@ -1,7 +1,7 @@
 {
-  "title": "Bem vindo ao meu site",
+  "title": "Micael Gomes — Desenvolvedor Full-stack",
   "theme": {
-    "label": "Selecione seu tema:",
+    "label": "Selecionar tema",
     "themes": {
       "light": "Claro",
       "dark": "Escuro",
@@ -9,90 +9,129 @@
     }
   },
   "language-selector": {
-    "label": "Choose your language:",
+    "label": "Selecionar idioma",
     "languages": {
       "pt": "Português",
       "en": "English"
     }
   },
-  "now-playing": {
-    "title": "Ouvindo agora:"
-  },
-  "navbar": {
-    "title": "Bem vindo!",
-    "social-media": "Redes Sociais",
-    "home": "Ínicio",
-    "does-not-speak": "Don't speak Portuguese? Change here!"
+  "navigation": {
+    "primary": "Navegação principal",
+    "home": "Micael Gomes — início",
+    "skip": "Pular para o conteúdo",
+    "projects": "Projetos",
+    "skills": "Skills",
+    "about": "Sobre",
+    "backToTop": "Voltar ao topo"
   },
   "main": {
-    "cv": "Baixar Currículo",
-    "greeting": "Olá, eu sou",
-    "role": "Desenvolvedor de Software Fullstack",
-    "title": "Olá, seja bem vindo!",
-    "description": "Desenvolvedor fullstack apaixonado por construir aplicações web modernas, escaláveis e com ótima experiência do usuário. Especializado em React, Next.js e Node.js.",
+    "availability": "Disponível para oportunidades e projetos selecionados",
+    "role": "Desenvolvedor full-stack com obsessão por interfaces bem construídas.",
+    "description": "Transformo problemas de produto em experiências rápidas, claras e prontas para crescer — da primeira interação à infraestrutura.",
     "location": "Brasil",
-    "technologies": "Tecnologias & Ferramentas",
-    "about": "Sobre mim",
-    "about-description": "Olá! Meu nome é Micael Gomes, sou um desenvolvedor de software fullstack apaixonado por tecnologia e desafios. Minha jornada na programação começou como autodidata aos 12 anos, o que me permitiu desenvolver uma abordagem criativa e proativa para resolver problemas. Tenho experiência profissional com desenvolvimento frontend na Dinheirow, onde trabalho com React, TypeScript e tecnologias web modernas. Também tenho experiência com redes do meu tempo no IFF (Instituto Federal Fluminense) e anos de freelancing em backend. Como uma pessoa extrovertida por natureza, adoro trabalhar em equipe, compartilhar ideias e buscar constantemente maneiras de criar um ambiente colaborativo e produtivo. Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.",
-    "recent-enterprises": "Experiência",
-    "recent-enterprises-description": {
-      "1": {
-        "role": "Desenvolvedor Frontend",
-        "enterprise": "Dinheirow",
-        "date": "Jul/2024 - Atualmente",
-        "description": "Desenvolvimento de interfaces web utilizando React, TypeScript e tecnologias modernas de frontend."
-      },
-      "2": {
-        "role": "Analista de Redes de Computadores",
-        "enterprise": "IFF - Instituto Federal Fluminense",
-        "date": "Jan/2023 - Dez/2023",
-        "description": "Gerenciamento de infraestrutura de rede e manutenção de sistemas computacionais."
-      },
-      "3": {
-        "role": "Desenvolvedor Backend",
-        "enterprise": "Freelancer",
-        "date": "Jan/2019 - Jan/2023",
-        "description": "Desenvolvimento de APIs e serviços backend para diversos clientes utilizando Node.js e bancos de dados."
-      }
-    },
-    "licenses": "Cursos e Certificados",
-    "licenses-description": {
-      "1": {
-        "title": "CCNA: Introduction to Networks",
-        "description": "Fundamentos de Redes Cisco",
-        "date": "2024"
-      },
-      "2": {
-        "title": "Formação Node.js",
-        "description": "Desenvolvimento Completo de Aplicações com Node.js",
-        "date": "2022"
-      }
-    },
+    "remote": "Remoto · mundial",
+    "scroll": "Role para explorar",
+    "viewWork": "Ver trabalhos",
+    "cv": "Baixar currículo",
+    "portraitAlt": "Retrato de Micael Gomes em um jardim, usando óculos escuros",
     "projects": {
-      "title": "Meus Projetos",
-      "featured": "Projetos em Destaque",
-      "other": "Outros Projetos",
-      "mitech": {
-        "description": "Landing page moderna para a Mitech, construída com tecnologias de ponta e animações impressionantes.",
-        "tag": "Landing Page"
-      },
-      "mitechFinance": {
-        "description": "Plataforma completa de gestão financeira com dashboards, relatórios e acompanhamento de transações.",
-        "tag": "SaaS"
-      },
-      "corteIdeal": {
-        "description": "Plataforma completa para barbearias com agendamento, pagamentos e sistema de fidelidade.",
-        "tag": "SaaS"
-      },
-      "cinemaScore": {
-        "description": "Projeto criado para fixar aprendizado em React e TypeScript, consumindo a API do TMDB para exibir informações sobre filmes e séries.",
-        "tag": "Web App"
-      },
-      "trinno": {
-        "description": "Landing page criada com foco em conversão de clientes para uma empresa de contabilidade.",
-        "tag": "Landing Page"
+      "title": "Trabalhos selecionados",
+      "intro": "Produtos reais, decisões visíveis. Cada case combina engenharia, experiência do usuário e atenção ao que faz o negócio avançar.",
+      "open": "Abrir projeto",
+      "stackLabel": "Tecnologias utilizadas",
+      "items": {
+        "mitech": {
+          "type": "Site institucional · 2026",
+          "description": "Presença digital para uma software house, com narrativa de produto, direção visual escura e uma jornada de conversão objetiva.",
+          "imageAlt": "Página inicial da Mitech com apresentação de serviços digitais"
+        },
+        "cinemaScore": {
+          "type": "Aplicação web · Produto pessoal",
+          "description": "Experiência de descoberta de filmes e séries construída sobre a API do TMDB, com busca, catálogo e navegação responsiva.",
+          "imageAlt": "Interface do Cinema Score exibindo catálogo de filmes"
+        },
+        "trinno": {
+          "type": "Landing page · Cliente",
+          "description": "Landing page para uma contabilidade digital, organizada para explicar o serviço rapidamente e transformar interesse em contato.",
+          "imageAlt": "Página da Trinno Contabilidade com apresentação de serviços"
+        }
       }
     },
-    "footer": "Todos os direitos reservados."
+    "skills": {
+      "title": "Skills",
+      "showMore": "Mostrar mais",
+      "showLess": "Mostrar menos",
+      "categories": {
+        "language": "Linguagens",
+        "frontend": "Frontend",
+        "backend": "Backend",
+        "infrastructure": "Infraestrutura",
+        "workflow": "Workflow",
+        "design": "Design"
+      }
+    },
+    "about": {
+      "title": "Sobre",
+      "statement": "Engenharia com senso de produto.",
+      "description": "Comecei a programar de forma autodidata aos 12 anos. Desde então, construí uma visão que conecta código, pessoas e resultado: gosto de entender o problema antes de escolher a tecnologia, trabalhar perto do time e transformar complexidade em interfaces que parecem simples. Hoje atuo principalmente com React, TypeScript, Next.js e Node.js.",
+      "focusLabel": "Foco",
+      "focusValue": "Produtos web ponta a ponta",
+      "modeLabel": "Forma de trabalho",
+      "modeValue": "Remoto e colaborativo",
+      "languagesLabel": "Idiomas",
+      "languagesValue": "Português e inglês"
+    },
+    "experience": {
+      "title": "Experiência",
+      "intro": "Uma trajetória entre produto, frontend, backend e infraestrutura.",
+      "items": {
+        "1": {
+          "role": "Líder técnico",
+          "enterprise": "Ecta Corporative",
+          "employmentType": "Tempo integral",
+          "date": "Mar/2026 — atual",
+          "location": "Brasil · Remoto",
+          "description": "Tech Lead atuando no desenvolvimento de plataformas B2B e sistemas de alta escala com Angular, C# e .NET. Responsável pela arquitetura de sistemas, liderança técnica do time e gestão do roadmap, equilibrando visão estratégica e proximidade com o código. Atuo na definição de padrões técnicos, revisão de arquitetura e nas decisões que garantem escalabilidade, qualidade e evolução contínua dos produtos. Perfil hands-on, com foco em entregar soluções robustas e desenvolver o time junto com o produto."
+        },
+        "2": {
+          "role": "Desenvolvedor Frontend",
+          "enterprise": "Dinheirow",
+          "date": "Jul/2024 — Mar/2026",
+          "description": "Construção e evolução de interfaces com React, TypeScript e tecnologias modernas de frontend, em contato direto com necessidades de produto."
+        },
+        "3": {
+          "role": "Analista de Redes de Computadores",
+          "enterprise": "IFF — Instituto Federal Fluminense",
+          "date": "Jan/2023 — Dez/2023",
+          "description": "Gerenciamento de infraestrutura de rede e manutenção de sistemas computacionais."
+        },
+        "4": {
+          "role": "Desenvolvedor Backend",
+          "enterprise": "Freelancer",
+          "date": "Jan/2019 — Jan/2023",
+          "description": "APIs e serviços backend para clientes de diferentes segmentos usando Node.js e bancos de dados relacionais."
+        }
+      }
+    },
+    "certificates": {
+      "title": "Formação complementar",
+      "items": {
+        "1": {
+          "title": "CCNA: Introduction to Networks",
+          "description": "Fundamentos de redes Cisco",
+          "date": "2024"
+        },
+        "2": {
+          "title": "Formação Node.js",
+          "description": "Desenvolvimento completo de aplicações",
+          "date": "2022"
+        }
+      }
+    },
+    "contact": {
+      "availability": "Tem um problema interessante?",
+      "title": "Vamos conversar",
+      "timezone": "UTC−03 · horário de Brasília"
+    }
   }
 }

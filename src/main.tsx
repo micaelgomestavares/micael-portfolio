@@ -1,3 +1,4 @@
+import "@fontsource-variable/recursive/full.css";
 import ReactDOM from 'react-dom/client';
 import App from './App.tsx';
 import '../app/globals.css';
@@ -13,6 +14,9 @@ i18next
   .use(LanguageDetector)
   .init({
     interpolation: { escapeValue: false },
+    fallbackLng: "pt",
+    supportedLngs: ["pt", "en"],
+    load: "languageOnly",
     resources: {
       pt: {
         common: portugueseTranslation
@@ -22,6 +26,8 @@ i18next
       },
     },
   });
+
+document.documentElement.lang = i18next.language.startsWith("en") ? "en" : "pt-BR";
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <I18nextProvider i18n={i18next}>
